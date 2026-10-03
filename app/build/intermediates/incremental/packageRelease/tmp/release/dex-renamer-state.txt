@@ -1,0 +1,4 @@
+#Fri Oct 02 21:49:51 ART 2026
+base.0=/home/mateo/Documentos/Escuela 2026/Programacion Web/PWA/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
